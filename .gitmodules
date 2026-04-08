@@ -1,0 +1,3 @@
+[submodule "windy-plugin-template"]
+	path = windy-plugin-template
+	url = https://github.com/windycom/windy-plugin-template.git
